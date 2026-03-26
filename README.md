@@ -5,7 +5,7 @@
 ## 서비스 접속하기
 - **Live Demo:** [https://todo-app-mini-project-20223137.vercel.app/] 
 
-## 어떤 기능들이 있나요?
+## 제공하는 기능
 
 ### 1. 개인 계정 (회원가입 & 로그인)
 - **프라이빗 리스트:** 아이디와 비밀번호로 나만의 계정을 생성하세요. 내가 작성한 할 일은 나만 볼 수 있고, 나만 지울 수 있습니다.
@@ -25,17 +25,8 @@
 
 ---
 
-## 기술 스택 (Tech Stack)
+## 사용 기술
 * **Frontend:** React, Vite, Tailwind CSS v3, Lucide Icons
 * **Backend:** Node.js, Express.js, JSON Web Token(JWT), bcryptjs
 * **Database:** MongoDB Atlas (Mongoose)
 * **Deployment:** Vercel
-
-## 로컬 실행 방법 (Developers Only)
-
-**1. 환경 변수 설정**
-`backend` 폴더 최상단에 `.env` 파일을 생성하고 아래 값들을 입력합니다.
-```env
-PORT=5000
-MONGODB_URI=당신의_MongoDB_연결_문자열
-JWT_SECRET=원하는_비밀키_아무거나_입력 (예: my_super_secret_key)
