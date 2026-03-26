@@ -25,13 +25,13 @@
 
 ---
 
-## 🛠 기술 스택 (Tech Stack)
+## 기술 스택 (Tech Stack)
 * **Frontend:** React, Vite, Tailwind CSS v3, Lucide Icons
 * **Backend:** Node.js, Express.js, JSON Web Token(JWT), bcryptjs
 * **Database:** MongoDB Atlas (Mongoose)
 * **Deployment:** Vercel
 
-## 💻 로컬 실행 방법 (Developers Only)
+## 로컬 실행 방법 (Developers Only)
 
 **1. 환경 변수 설정**
 `backend` 폴더 최상단에 `.env` 파일을 생성하고 아래 값들을 입력합니다.
