@@ -25,7 +25,7 @@
 
 ---
 
-## 사용 기술
+## 기술 스택
 * **Frontend:** React, Vite, Tailwind CSS v3, Lucide Icons
 * **Backend:** Node.js, Express.js, JSON Web Token(JWT), bcryptjs
 * **Database:** MongoDB Atlas (Mongoose)
